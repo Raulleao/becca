@@ -66,7 +66,7 @@ const About = () => {
             <div className="relative">
               <div className="aspect-square rounded-[2rem] overflow-hidden shadow-soft">
                 <img
-                  src="/images/bec.jpg"
+                  src="/images/bec.png"
                   alt="Peça de crochê artesanal"
                   className="w-full h-full object-cover"
                 />
