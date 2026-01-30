@@ -8,35 +8,35 @@ const bolsas = [
   {
     image: "/images/Hadassa.png",
     name: "Bolsa Hadassa",
-    price: "R$ 95,00",
+    price: "R$ 85,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno - uso para saídas ou coisas básicas; Alça presa com mosquetão e fecho de imã.",
   },
   {
     image: "/images/Laís.png",
     name: "Minibag Laís",
-    price: "R$ 90,00",
+    price: "R$ 80,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Lívia.png",
     name: "Minibag Lívia",
-    price: "R$ 90,00",
+    price: "R$ 80,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Joyce.png",
     name: "Bolsa Joyce",
-    price: "R$ 105,00",
+    price: "R$ 85,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno/médio - uso dia a dia, saídas; Fecho de imã.",
   },
   {
     image: "/images/Eloina.png",
     name: "Bolsa Eloina",
-    price: "R$ 135,00",
+    price: "R$ 100,00",
     description:
       "Trabalhada em fio barbante 6; Tamanho grande - uso diário, faculdade, viagens, passeios; Opção de com ou sem fecho de imã.",
   },
@@ -46,7 +46,7 @@ const pecas = [
   {
     image: "/images/2.png",
     name: "Chaveiro de Coração",
-    price: "R$ 8,00",
+    price: "R$ 6,00",
     priceDetails: "Unidade",
     description:
       "Chaveiro artesanal em formato de coração com mosquetão dourado.",
@@ -55,9 +55,9 @@ const pecas = [
   {
     image: "/images/3.png",
     name: "Descanso de Panela",
-    price: "A partir de R$ 40,00",
+    price: "A partir de R$ 20,00",
     priceDetails:
-      "Unidade: R$40 | Kit 2: R$50 | Kit 3: R$60 | Kit 4: R$75 | Kit +4: Apartir de R$90",
+      "Unidade: R$20 | Kit 2: R$40 | Kit 3: R$50 | Kit 4: R$60 | Kit +4: Apartir de R$80",
     description:
       "Descanso de panela em formato de flor com design delicado e funcional.",
     material: "Fio barbante",
@@ -65,9 +65,9 @@ const pecas = [
   {
     image: "/images/4.png",
     name: "Cachepot",
-    price: "A partir de R$ 40,00",
+    price: "A partir de R$ 25,00",
     priceDetails:
-      "P: R$40 (6x15x15cm) | M: R$50 (7x22x20cm) | G: R$65 (8x22x27cm)",
+      "P: R$25 (6x15x15cm) | M: R$40 (7x22x20cm) | G: R$50 (8x22x27cm)",
     description:
       "Conjunto de cachepots para organização e decoração em tons neutros.",
     material: "Fio de malha",
@@ -75,9 +75,9 @@ const pecas = [
   {
     image: "/images/5.png",
     name: "Sousplat",
-    price: "A partir de R$ 40,00",
+    price: "A partir de R$ 20,00",
     priceDetails:
-      "Unidade: R$40 | Kit 2: R$55 | Kit 3: R$65 | Kit 4: R$85 | Kit +4: Apartir de R$100",
+      "Unidade: R$20 | Kit 2: R$40 | Kit 3: R$50 | Kit 4: R$60 | Kit +4: Apartir de R$80",
     description:
       "Sousplat redondo com bordas em crochê delicado para sua mesa.",
     material: "Fio barbante",
@@ -85,8 +85,8 @@ const pecas = [
   {
     image: "/images/7.png",
     name: "Capa para Tablet/Notebook",
-    price: "A partir de R$ 75,00",
-    priceDetails: "Tablet iPad (11'): R$75 | Notebook (15,6'): R$95",
+    price: "A partir de R$ 65,00",
+    priceDetails: "Tablet iPad (11'): R$65 | Notebook (15,6'): R$85",
     description:
       "Capa protetora acolchoada para tablets e notebooks em cores variadas.",
     material: "Fio de malha ou fio náutico",
@@ -94,7 +94,7 @@ const pecas = [
   {
     image: "/images/8.png",
     name: "Necessaire com Boca de Lobo",
-    price: "R$ 125,00",
+    price: "R$ 120,00",
     priceDetails: "Tamanho único",
     description:
       "Necessaire com zíper e design em duas cores para facilitar a organização. Fecho Boca de Lobo 25cm.",
@@ -103,7 +103,7 @@ const pecas = [
   {
     image: "/images/9.png",
     name: "Kit Lis",
-    price: "R$ 140,00",
+    price: "R$ 120,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
@@ -111,7 +111,7 @@ const pecas = [
   {
     image: "/images/10.png",
     name: "Kit Lily",
-    price: "R$ 160,00",
+    price: "R$ 140,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
@@ -128,7 +128,7 @@ const pecas = [
   {
     image: "/images/12.png",
     name: "Porta Copo",
-    price: "R$ 10,00",
+    price: "R$ 8,00",
     priceDetails: "Unidade",
     description: "Descanso para copo.",
     material: "Fio barbante",
