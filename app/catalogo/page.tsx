@@ -8,20 +8,20 @@ const roupas = [
   {
     image: "/images/bata.png",
     name: "Bata",
-    price: "R$ 180,00",
+    price: "R$ 130,00",
     material: "Fio barbante",
   },
   {
     image: "/images/saia_fundo_branco.png",
     name: "Saída de Praia",
-    price: "R$ 150,00",
+    price: "R$ 100,00",
 
     material: "Fio barbante",
   },
   {
     image: "/images/top_fundo_branco.png",
     name: "Top Cropped",
-    price: "R$ 160,00",
+    price: "R$ 120,00",
     material: "Fio barbante",
   },
 ];
@@ -30,42 +30,42 @@ const bolsas = [
   {
     image: "/images/Hadassa.png",
     name: "Bolsa Hadassa",
-    price: "R$ 85,00",
+    price: "R$ 70,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno - uso para saídas ou coisas básicas; Alça presa com mosquetão e fecho de imã.",
   },
   {
     image: "/images/Laís.png",
     name: "Minibag Laís",
-    price: "R$ 80,00",
+    price: "R$ 60,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Lívia.png",
     name: "Minibag Lívia",
-    price: "R$ 80,00",
+    price: "R$ 60,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Joyce.png",
     name: "Bolsa Joyce",
-    price: "R$ 85,00",
+    price: "R$ 70,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno/médio - uso dia a dia, saídas; Fecho de imã.",
   },
   {
     image: "/images/Eloina.png",
     name: "Bolsa Eloina",
-    price: "R$ 100,00",
+    price: "R$ 80,00",
     description:
       "Trabalhada em fio barbante 6; Tamanho grande - uso diário, faculdade, viagens, passeios; Opção de com ou sem fecho de imã.",
   },
   {
     image: "/images/bolsaLuana.jpeg",
     name: "Bolsa Luana ",
-    price: "R$ 110,00",
+    price: "R$ 90,00",
     description: "Trabalhada em fio barbante, 'fecho' de madeira.",
     material: "Fio barbante",
   },
@@ -105,30 +105,23 @@ const pecas = [
   {
     image: "/images/prendedorCortina.jpeg",
     name: "Prendedor Cortina",
-    price: "R$ 65,00",
+    price: "R$ 40,00",
     description: "Funcionalidade com charme artesanal.",
     material: "Fio náutico",
   },
   {
     image: "/images/8.png",
     name: "Necessaire com Boca de Lobo",
-    price: "R$ 120,00",
+    price: "R$ 80,00",
     priceDetails: "Tamanho único",
     description:
       "Necessaire com zíper e design em duas cores para facilitar a organização. Fecho Boca de Lobo 25cm.",
     material: "Fio de malha",
   },
   {
-    image: "/images/estojo.png",
-    name: "Estojo",
-    price: "R$ 35,00",
-    description: "Prático, bonito e multifuncional.",
-    material: "Fio barbante",
-  },
-  {
     image: "/images/10.png",
     name: "Kit Lily",
-    price: "R$ 140,00",
+    price: "R$ 100,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
@@ -136,17 +129,10 @@ const pecas = [
   {
     image: "/images/9.png",
     name: "Kit Lis",
-    price: "R$ 120,00",
+    price: "R$ 100,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
-  },
-  {
-    image: "/images/portaFone.jpeg",
-    name: "Porta Fone de Ouvido",
-    price: "R$ 20,00",
-    description: "Proteção para o seu fone de ouvido.",
-    material: "Fio barbante ou Fio náutico",
   },
   {
     image: "/images/12.png",
