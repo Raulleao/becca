@@ -30,42 +30,42 @@ const bolsas = [
   {
     image: "/images/Hadassa.png",
     name: "Bolsa Hadassa",
-    price: "R$ 70,00",
+    price: "R$ 80,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno - uso para saídas ou coisas básicas; Alça presa com mosquetão e fecho de imã.",
   },
   {
     image: "/images/Laís.png",
     name: "Minibag Laís",
-    price: "R$ 60,00",
+    price: "R$ 70,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Lívia.png",
     name: "Minibag Lívia",
-    price: "R$ 60,00",
+    price: "R$ 70,00",
     description:
       "Trabalhada em fio de malha; Tamanho bem pequeno - uso básico como celular, maquiagem; Fecho de imã.",
   },
   {
     image: "/images/Joyce.png",
     name: "Bolsa Joyce",
-    price: "R$ 70,00",
+    price: "R$ 80,00",
     description:
       "Trabalhada em fio de malha ou fio náutico; Tamanho pequeno/médio - uso dia a dia, saídas; Fecho de imã.",
   },
   {
     image: "/images/Eloina.png",
     name: "Bolsa Eloina",
-    price: "R$ 80,00",
+    price: "R$ 100,00",
     description:
       "Trabalhada em fio barbante 6; Tamanho grande - uso diário, faculdade, viagens, passeios; Opção de com ou sem fecho de imã.",
   },
   {
     image: "/images/bolsaLuana.jpeg",
     name: "Bolsa Luana ",
-    price: "R$ 90,00",
+    price: "R$ 95,00",
     description: "Trabalhada em fio barbante, 'fecho' de madeira.",
     material: "Fio barbante",
   },
@@ -105,14 +105,14 @@ const pecas = [
   {
     image: "/images/prendedorCortina.jpeg",
     name: "Prendedor Cortina",
-    price: "R$ 40,00",
+    price: "R$ 45,00",
     description: "Funcionalidade com charme artesanal.",
     material: "Fio náutico",
   },
   {
     image: "/images/8.png",
     name: "Necessaire com Boca de Lobo",
-    price: "R$ 80,00",
+    price: "R$ 100,00",
     priceDetails: "Tamanho único",
     description:
       "Necessaire com zíper e design em duas cores para facilitar a organização. Fecho Boca de Lobo 25cm.",
@@ -121,7 +121,7 @@ const pecas = [
   {
     image: "/images/10.png",
     name: "Kit Lily",
-    price: "R$ 100,00",
+    price: "R$ 120,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
@@ -129,7 +129,7 @@ const pecas = [
   {
     image: "/images/9.png",
     name: "Kit Lis",
-    price: "R$ 100,00",
+    price: "R$ 120,00",
     priceDetails: "Tamanho único",
     description: "Kit porta tralheres e porta pratos.",
     material: "Fio barbante",
